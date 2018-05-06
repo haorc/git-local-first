@@ -1,2 +1,2 @@
 git reference
-test
+test-master
