@@ -1,3 +1,3 @@
 git reference
 test
-- feature-A
+- feature-A-2
